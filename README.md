@@ -10,35 +10,31 @@ Passionate about Software Development, Artificial Intelligence and Cloud Computi
 
 ## 🚀 About Me
 
-- 🌱 Learning AWS Cloud and AI
-- 💻 Building projects using Python, Java and C++
-- ☁️ Exploring Cloud Technologies
-- 🤖 Interested in Machine Learning and Generative AI
+- 💻 Software Development Enthusiast
+- ☁️ Learning AWS Cloud
+- 🤖 Exploring AI and Generative AI
+- 🌱 Building real-world projects using Python
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=namiths04&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namiths04&theme=tokyonight&layout=compact)
-
-## 🔥 Streak Stats
-
-![](https://streak-stats.demolab.com?user=namiths04&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=namiths04&theme=tokyonight&no-frame=true&row=1)
+Python • AWS • C++ • Java • AI
 
 ## 📌 Featured Projects
 
-- AI Chatbot
-- Movie Recommendation System
-- NLP Preprocessing Engine
-- FastAPI Applications
+### 🤖 AI Chatbot Using AI & ML Model
+Machine learning powered chatbot with NLP capabilities.
+
+### 🎬 Movie Recommendation System
+Recommendation engine for personalized movie suggestions.
+
+### 📝 NLP Preprocessing Engine
+Text preprocessing and feature engineering pipeline.
+
+### ⚡ FastAPI Applications
+Backend APIs built using FastAPI and Python.
+
+### ☁️ GenAI Internship Project
+Generative AI project developed during internship.
+
+### 🐢 Turtle Graphics
+Python graphics and animation experiments.
