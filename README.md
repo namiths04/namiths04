@@ -10,10 +10,12 @@ Passionate about Software Development, Artificial Intelligence and Cloud Computi
 
 ## 🚀 About Me
 
-- 💻 Software Development Enthusiast
-- ☁️ Building cloud computing skills with AWS
-- 🤖 Exploring AI and Generative AI
-- 🚀 Developing AI and backend applications using Python
+- 🤖 Building AI and Machine Learning applications using Python
+- 🧠 Interested in Natural Language Processing and Generative AI
+- ⚡ Developing backend APIs with FastAPI
+- 🎬 Building recommendation systems and data-driven applications
+- ☁️ Expanding my expertise in AWS Cloud and modern software development
+- 🚀 Passionate about solving real-world problems through technology
 
 ---
 
